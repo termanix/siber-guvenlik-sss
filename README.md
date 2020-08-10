@@ -238,6 +238,7 @@ https://www.thecybermentor.com/zero-to-hero-pentesting
 <summary> Kitaplar </summary>
 
 https://goalkicker.com/ \
+https://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf \
 http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
 Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
 Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf \
